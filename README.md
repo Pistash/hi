@@ -1,2 +1,2 @@
 # hi
-#Well know i know how to edit read me! nice.
+# Well know I know how to edit read me! Nice. <3
